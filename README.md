@@ -1,8 +1,8 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<p align="left">## Olá! Eu sou o Émerson Souza. 👋<br><br>- 🔭 Hoje trabalho com Front-End<br>- 🌱 Estudando Java Script e Type Script<br>- 😄 Pronome: ele/dele</p>
+<p align="center">## Olá! Eu sou o Émerson Souza. 👋<br><br>- 🔭 Hoje trabalho com Front-End<br>- 🌱 Estudando Java Script e Type Script<br>- 😄 Pronome: ele/dele</p>
 
 ###
 
@@ -41,7 +41,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emersontlsd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emersontlsd&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emersontlsd&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -66,10 +65,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emersontlsd/Emersontlsd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emersontlsd/Emersontlsd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Emersontlsd/Emersontlsd/output/pacman-contribution-graph.svg">
-</picture>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/Emersontlsd/Emersontlsd/output/snake.svg" alt="Snake animation" />
 
 ###
