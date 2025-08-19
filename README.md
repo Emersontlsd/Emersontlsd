@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">## Olá! Eu sou o Émerson Souza. 👋<br><br>- 🔭 Hoje trabalho com Front-End<br>- 🌱 Estudando Java Script e Type Script<br>- 😄 Pronome: ele/dele</p>
+<p align="center">## Olá! my name's Émerson Souza. 👋<br><br>- 🔭 Hoje trabalho com Front-End<br>- 🌱 Estudando Java Script e Type Script<br>- 😄 Pronome: ele/dele</p>
 
 ###
 
