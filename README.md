@@ -63,7 +63,10 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=custom&snake=000000&dots=cccccc" alt="Snake animation" />
+</p>
+
 
 
 ###
