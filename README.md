@@ -63,6 +63,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Emersontlsd/Emersontlsd/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ###
